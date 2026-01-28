@@ -1,0 +1,15 @@
+-- Local Player Gui
+
+Local Workspace Find Child.Name = PlayerGui
+if found Func(Print(Error PlayerGui())
+     end)
+  end)
+end)
+
+-- Mainframe Panel
+
+Local Workspace.PlayerGuI get child.Name ("Player Gui")
+
+Updm2.Frame.Size = 0 -20 0 10
+Upmd2.Frame.Size = 0 15 0 16
+Updm2.Frame.Name = "MainFrame'
