@@ -1,7 +1,12 @@
 -- Local Player Gui
 
 Local Workspace Find Child.Name = PlayerGui
-if found Func(Print(Error PlayerGui())
+if found Func(Print(Sucsesful Script Loaded!())
+ elsif Not found 
+       Function Local:())
+   loadstring(game:HttpGet(("https://raw.githubusercontent.com/Idk/main/akkdmd:))()
+           If Local Function Local:))..) Not Func Func(Print:("Error ReExecution Failed Please Rejoin Or Try Again Later!")
+       end)
      end)
   end)
 end)
@@ -12,4 +17,12 @@ Local Workspace.PlayerGuI get child.Name ("Player Gui")
 
 Updm2.Frame.Size = 0 -20 0 10
 Upmd2.Frame.Size = 0 15 0 16
-Updm2.Frame.Name = "MainFrame'
+Updm2.Frame.Name = "MainFrame" 
+Updm2.Frame.Config = Func(Local("load.Func.Xeno.APISystem") Local Run.(Line.Local.Xeno 1) 
+if Found Func(Print:("Sucsesful Script Injecting...")
+
+        end)
+     end)
+   end)
+end) 
+
